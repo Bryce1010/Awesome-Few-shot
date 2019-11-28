@@ -2,7 +2,9 @@
 
 
 
+
 ### Ref  
+
 - [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
 
 
@@ -18,6 +20,8 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 ### Metric Learning 
 - [ ] [**(CVPR2019)Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning**](https://arxiv.org/abs/1903.12290)
 - [ ] [**(CVPR2019)Few-Shot Learning with Localization in Realistic Settings, Wertheimer et. al**](https://arxiv.org/abs/1904.08502)
+- [ ] [**(CVPR2019)Dense Classification and Implanting for Few-Shot Learning, Lifchitz et. al**](https://arxiv.org/abs/1903.05050)
+- [ ] [**(CVPR2019)Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images, Kim et. al.**](https://arxiv.org/abs/1904.08482)
 
 
 
