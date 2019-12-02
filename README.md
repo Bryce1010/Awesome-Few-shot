@@ -44,27 +44,27 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 
 ### Metric Learning 
-- [ ] Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning[[paper]](https://arxiv.org/abs/1903.12290)
+- [x] Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning[[paper]](https://arxiv.org/abs/1903.12290)
 
   - Wenbin Li, Lei Wang, Jinglin Xu, Jing Huo, Yang Gao, Jiebo Luo - - CVPR 2019
 
-- [ ] Few-Shot Learning with Localization in Realistic Settings, Wertheimer et. al [[paper]](https://arxiv.org/abs/1904.08502)
+- [x] Few-Shot Learning with Localization in Realistic Settings, Wertheimer et. al [[paper]](https://arxiv.org/abs/1904.08502)
 
   - Davis Wertheimer, Bharath Hariharan - - CVPR 2019
 
-- [ ] Dense Classification and Implanting for Few-Shot Learning, Lifchitz et. al[[paper]](https://arxiv.org/abs/1903.05050)
+- [x] Dense Classification and Implanting for Few-Shot Learning, Lifchitz et. al[[paper]](https://arxiv.org/abs/1903.05050)
 
   - [Yann Lifchitz](https://arxiv.org/search/cs?searchtype=author&query=Lifchitz%2C+Y), [Yannis Avrithis](https://arxiv.org/search/cs?searchtype=author&query=Avrithis%2C+Y), [Sylvaine Picard](https://arxiv.org/search/cs?searchtype=author&query=Picard%2C+S), [Andrei Bursuc](https://arxiv.org/search/cs?searchtype=author&query=Bursuc%2C+A) - - CVPR 2019
 
-- [ ] Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images, Kim et. al.[[paper]](https://arxiv.org/abs/1904.08482)
+- [x] Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images, Kim et. al.[[paper]](https://arxiv.org/abs/1904.08482)
 
   - Junsik Kim, Tae-Hyun Oh, Seokju Lee, Fei Pan, In So Kweon - - CVPR 2019
 
-- [ ] Attentive Region Embedding Network for Zero-Shot Learning[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.html)
+- [x] Attentive Region Embedding Network for Zero-Shot Learning[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.html)
 
   - Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao - -CVPR 2019
 
-- [ ] Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Coloring_With_Limited_Data_Few-Shot_Colorization_via_Memory_Augmented_Networks_CVPR_2019_paper.html)
+- [x] Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Coloring_With_Limited_Data_Few-Shot_Colorization_via_Memory_Augmented_Networks_CVPR_2019_paper.html)
 
   - Seungjoo Yoo, Hyojin Bahng, Sunghyo Chung, Junsoo Lee, Jaehyuk Chang, Jaegul Choo - - CVPR 2019
 
@@ -77,7 +77,7 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ### Meta-Learning
 
-- [ ] Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper]](https://arxiv.org/abs/1911.04695)
+- [x] Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper]](https://arxiv.org/abs/1911.04695)
   - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang - -arXiv 2019
 - [ ] (ICCV2019)PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
   - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng - -ICCV 2019
