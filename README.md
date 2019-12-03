@@ -1,4 +1,4 @@
-Awesome-Few-shot
+  Awesome-Few-shot
 
 
 
@@ -42,8 +42,38 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 
 
+ps: some paper I have not read until, but I put them in Metric Learning temprally.
+
 
 ### Metric Learning 
+- [ ] Few-Shot Learning With Global Class Representations  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Few-Shot_Learning_With_Global_Class_Representations_ICCV_2019_paper.html)
+
+  - Aoxue Li, Tiange Luo, Tao Xiang, Weiran Huang, Liwei Wang  - - **ICCV 2019**
+
+- [ ] Collect and Select: Semantic Alignment Metric Learning for Few-Shot Learning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Hao_Collect_and_Select_Semantic_Alignment_Metric_Learning_for_Few-Shot_Learning_ICCV_2019_paper.html)  
+
+  - Fusheng Hao, Fengxiang He, Jun Cheng, Lei Wang, Jianzhong Cao, Dacheng Tao - - **ICCV 2019**
+
+- [ ] PARN: Position-Aware Relation Networks for Few-Shot Learning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_PARN_Position-Aware_Relation_Networks_for_Few-Shot_Learning_ICCV_2019_paper.html)
+
+  - Ziyang Wu, Yuwei Li, Lihua Guo, Kui Jia  - - **ICCV 2019**
+
+- [ ] One-Shot Neural Architecture Search via Self-Evaluated Template Network  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_One-Shot_Neural_Architecture_Search_via_Self-Evaluated_Template_Network_ICCV_2019_paper.html)
+
+  - Xuanyi Dong, Yi Yang  - - **ICCV 2019**
+
+- [ ] Diversity With Cooperation: Ensemble Methods for Few-Shot Classification  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Dvornik_Diversity_With_Cooperation_Ensemble_Methods_for_Few-Shot_Classification_ICCV_2019_paper.html)
+
+  - Nikita Dvornik, Cordelia Schmid, Julien Mairal - - **ICCV 2019**
+
+- [ ] Transductive Episodic-Wise Adaptive Metric for Few-Shot Learning [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Qiao_Transductive_Episodic-Wise_Adaptive_Metric_for_Few-Shot_Learning_ICCV_2019_paper.html)
+
+  - Limeng Qiao, Yemin Shi, Jia Li, Yaowei Wang, Tiejun Huang, Yonghong Tian - - **ICCV 2019**
+
+- [ ] Few-Shot Image Recognition With Knowledge Transfer  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Peng_Few-Shot_Image_Recognition_With_Knowledge_Transfer_ICCV_2019_paper.html)
+
+  - Zhimao Peng, Zechao Li, Junge Zhang, Yan Li, Guo-Jun Qi, Jinhui Tang - - **ICCV 2019**
+
 - [x] Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning[[paper]](https://arxiv.org/abs/1903.12290)
 
   - Wenbin Li, Lei Wang, Jinglin Xu, Jing Huo, Yang Gao, Jiebo Luo - - **CVPR 2019**
@@ -77,17 +107,16 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ### Meta-Learning
 
+- [ ] Variational Few-Shot Learning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Variational_Few-Shot_Learning_ICCV_2019_paper.html)
+  - Jian Zhang, Chenglong Zhao, Bingbing Ni, Minghao Xu, Xiaokang Yang - - **ICCV 2019**
 - [x] Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper]](https://arxiv.org/abs/1911.04695)
   - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang - -**arXiv 2019**
 - [ ] (ICCV2019)PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
   - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng - -**ICCV 2019**
-
 - [ ] Few-Shot Learning with Global Class Representations [[paper](https://arxiv.org/pdf/1908.05257.pdf)]
   - Tiange Luo, Aoxue Li, Tao Xiang, Weiran Huang, Liwei Wang - **-ICCV 2019**
-
 - [ ] TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning [[paper](https://arxiv.org/pdf/1905.06549.pdf)]
   - Sung Whan Yoon, Jun Seo, Jaekyun Moon - -**ICML 2019**
-
 - [ ] Learning to Learn with Conditional Class Dependencies [[paper](https://openreview.net/pdf?id=BJfOXnActQ)]
   - Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin - **-ICLR 2019**
 - [ ] TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning [[paper](https://arxiv.org/abs/1904.05967)]
@@ -166,6 +195,22 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ### Few-Shot Object Detection
 
+- [ ] Few-Shot Object Detection via Feature Reweighting [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
+
+  - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
+
+- [ ] Dynamic Anchor Feature Selection for Single-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Dynamic_Anchor_Feature_Selection_for_Single-Shot_Object_Detection_ICCV_2019_paper.html)
+
+  - Shuai Li, Lingxiao Yang, Jianqiang Huang, Xian-Sheng Hua, Lei Zhang  - - **ICCV 2019**
+
+- [ ] Transductive Learning for Zero-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Rahman_Transductive_Learning_for_Zero-Shot_Object_Detection_ICCV_2019_paper.html)
+
+  - Shafin Rahman, Salman Khan, Nick Barnes  - - **ICCV 2019**
+
+- [ ] Learning Rich Features at High-Speed for Single-Shot Object Detection [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Learning_Rich_Features_at_High-Speed_for_Single-Shot_Object_Detection_ICCV_2019_paper.html)
+
+  - Tiancai Wang, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Yanwei Pang, Ling Shao - - **ICCV 2019**
+
 - [ ] Comparison Network for One-Shot Conditional Object Detection  [[paper]](https://arxiv.org/abs/1904.02317)
 
   - Tengfei Zhang, Yue Zhang, Xian Sun, Hao Sun, Menglong Yan, Xue Yang, Kun Fu  - - **201904**
@@ -194,6 +239,22 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ### Few-Shot Segmentation   
 
+- [ ] Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.html)  
+  - Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao  - - **ICCV 2019**
+- [ ] Meta R-CNN: Towards General Solver for Instance-Level Low-Shot Learning [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.html)  
+  - Xiaopeng Yan, Ziliang Chen, Anni Xu, Xiaoxi Wang, Xiaodan Liang, Liang Lin - - **ICCV 2019**
+- [ ] Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Zero-Shot_Video_Object_Segmentation_via_Attentive_Graph_Neural_Networks_ICCV_2019_paper.html)
+  - Wenguan Wang, Xiankai Lu, Jianbing Shen, David J. Crandall, Ling Shao - - **ICCV 2019**
+- [ ] PANet: Few-Shot Image Semantic Segmentation With Prototype Alignment  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.html)
+  - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng  - - **ICCV 2019**
+- [ ] AMP: Adaptive Masked Proxies for Few-Shot Segmentation [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.html)  
+  - Mennatullah Siam, Boris N. Oreshkin, Martin Jagersand  - - **ICCV 2019**
+- [ ] AGSS-VOS: Attention Guided Single-Shot Video Object Segmentation  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Lin_AGSS-VOS_Attention_Guided_Single-Shot_Video_Object_Segmentation_ICCV_2019_paper.html)  
+  - Huaijia Lin, Xiaojuan Qi, Jiaya Jia   - - **ICCV 2019**
+- [ ] SSAP: Single-Shot Instance Segmentation With Affinity Pyramid [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_SSAP_Single-Shot_Instance_Segmentation_With_Affinity_Pyramid_ICCV_2019_paper.html)
+  - Naiyu Gao, Yanhu Shan, Yupei Wang, Xin Zhao, Yinan Yu, Ming Yang, Kaiqi Huang  - - **ICCV 2019**
+- [ ] Feature Weighting and Boosting for Few-Shot Segmentation [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.html)
+  - Khoi Nguyen, Sinisa Todorovic  - - **ICCV 2019**
 - [ ] One-Shot Instance Segmentation  [[paper]](https://arxiv.org/abs/1811.11507) 
   - Claudio Michaelis, Ivan Ustyuzhaninov, Matthias Bethge, Alexander S. Ecker - - **2018**
 
