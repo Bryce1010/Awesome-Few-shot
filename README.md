@@ -1,4 +1,4 @@
-  Awesome-Few-shot
+# <center>  Awesome-Few-shot </center>
 
 
 
@@ -46,7 +46,7 @@ ps: some paper I have not read yet, but I put them in Metric Learning temprally.
 
 
 ### Metric Learning 
-- [ ] All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning  [[paper]](https://arxiv.org/abs/1911.12476)]
+- [ ] All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning  [[paper]](https://arxiv.org/abs/1911.12476)
 
   - Shaoli Huang, Dacheng Tao  - - **ArXiv 201911**
 
