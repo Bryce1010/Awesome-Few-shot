@@ -38,7 +38,7 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 
 
-ps: some paper I have not read yet, but I put them in Metric Learning tempo1rally.
+ps: some paper I have not read yet, but I put them in Metric Learning temporally.
 
 
 ### Metric Learning 
