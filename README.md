@@ -46,6 +46,34 @@ ps: some paper I have not read until, but I put them in Metric Learning temprall
 
 
 ### Metric Learning 
+- [ ] All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning  [[paper]](https://arxiv.org/abs/1911.12476)]
+
+  - Shaoli Huang, Dacheng Tao  - - **ArXiv 201911**
+
+- [ ] Adaptive Cross-Modal Few-shot Learning  [[paper]](https://papers.nips.cc/paper/8731-adaptive-cross-modal-few-shot-learning)  
+
+  - Chen Xing, Negar Rostamzadeh, Boris Oreshkin, Pedro O. O. Pinheiro  - - **NIPS 2019**
+
+- [ ] Learning to Self-Train for Semi-Supervised Few-Shot Classification  [[paper]](https://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification)  
+
+  - Xinzhe Li, Qianru Sun, Yaoyao Liu, Qin Zhou, Shibao Zheng, Tat-Seng Chua, Bernt Schiele - - **NIPS 2019**
+
+- [ ] Unsupervised Meta-Learning for Few-Shot Image Classification [[paper]](https://papers.nips.cc/paper/9203-unsupervised-meta-learning-for-few-shot-image-classification)  
+
+  - Siavash Khodadadeh, Ladislau Boloni, Mubarak Shah  - - **NIPS 2019**
+
+- [ ] Zero-shot Knowledge Transfer via Adversarial Belief Matching  [[paper]](https://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching)
+
+  - Paul Micaelli, Amos J. Storkey  - - **NIPS 2019**
+
+- [ ] Incremental Few-Shot Learning with Attention Attractor Networks [[paper]](https://papers.nips.cc/paper/8769-incremental-few-shot-learning-with-attention-attractor-networks)  
+
+  - Mengye Ren, Renjie Liao, Ethan Fetaya, Richard Zemel - - **NIPS 2019**
+
+- [ ] Cross Attention Network for Few-shot Classification  [[paper]](https://papers.nips.cc/paper/8655-cross-attention-network-for-few-shot-classification)
+
+  -  Ruibing Hou, Hong Chang, Bingpeng MA, Shiguang Shan, Xilin Chen  - - **NIPS 2019**
+
 - [ ] Few-Shot Learning With Global Class Representations  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Few-Shot_Learning_With_Global_Class_Representations_ICCV_2019_paper.html)
 
   - Aoxue Li, Tiange Luo, Tao Xiang, Weiran Huang, Liwei Wang  - - **ICCV 2019**
