@@ -14,14 +14,10 @@
 - A Survey on Few-Shot Learning (May 2019)
   https://arxiv.org/pdf/1904.05046.pdf
 
+- 大数据时代的小样本深度学习问题的综述  
   
-
+https://zhuanlan.zhihu.com/p/60881968
   
-
-- [ ] 大数据时代的小样本深度学习问题的综述  
-
-  https://zhuanlan.zhihu.com/p/60881968
-
 - [MetaLearning Papers](https://github.com/oneHuster/MetaLearningPapers)
 
 **Datasets && Tools**
@@ -42,7 +38,7 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 
 
-ps: some paper I have not read yet, but I put them in Metric Learning temprally.
+ps: some paper I have not read yet, but I put them in Metric Learning tempo1rally.
 
 
 ### Metric Learning 
