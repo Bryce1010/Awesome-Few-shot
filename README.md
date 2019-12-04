@@ -6,18 +6,10 @@
 ### Ref  
 
 - [Awesome-few-shot-learning](https://github.com/e-271/awesome-few-shot-learning)
-
 - [Awesome domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)   
-
 - [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
-
-- A Survey on Few-Shot Learning (May 2019)
-  https://arxiv.org/pdf/1904.05046.pdf
-
-- 大数据时代的小样本深度学习问题的综述  
-  
-https://zhuanlan.zhihu.com/p/60881968
-  
+- [A Survey on Few-Shot Learning (May 2019)](https://arxiv.org/pdf/1904.05046.pdf)
+- [大数据时代的小样本深度学习问题的综述](https://zhuanlan.zhihu.com/p/60881968)
 - [MetaLearning Papers](https://github.com/oneHuster/MetaLearningPapers)
 
 **Datasets && Tools**
