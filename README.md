@@ -30,7 +30,7 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 
 
-ps: some paper I have not read yet, but I put them in Metric Learning temporally.
+ps: some paper I have not read yet, but I put them in Metric Learning temporally. If you find any mistakes, please feel free to pull request.
 
 
 ### Metric Learning 
@@ -118,9 +118,6 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
 
 
 
-
-
-
 ### Meta-Learning
 
 - [ ] Variational Few-Shot Learning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Variational_Few-Shot_Learning_ICCV_2019_paper.html)
@@ -185,6 +182,8 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
   - Jake Snell, Kevin Swersky, Richard S. Zemel -- **NIPS 2017**
 - [ ] Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [[paper](https://arxiv.org/abs/1703.03400)]
   - Chelsea Finn, Pieter Abbeel, Sergey Levine -- **ICML 2016**
+
+
 
 
 ### Data Augmentation
