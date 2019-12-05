@@ -2,6 +2,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Background**  
+
+I actually don't know the taxonomy of few-shot learning, so I will follow categorization in [this paper](https://arxiv.org/pdf/1904.05046.pdf)
+
+ps: some paper I have not read yet, but I put them in Metric Learning temporally. If you find any mistakes, please feel free to pull request. More hands produce a stronger flame !
+
 
 
 
@@ -26,15 +32,7 @@
 
 
 
-**Background**  
 
-I actually don't know the taxonomy of few-shot learning, so I will follow categorization in [this paper](https://arxiv.org/pdf/1904.05046.pdf)
-
-
-
-
-
-ps: some paper I have not read yet, but I put them in Metric Learning temporally. If you find any mistakes, please feel free to pull request.
 
 
 ### Metric Learning 
