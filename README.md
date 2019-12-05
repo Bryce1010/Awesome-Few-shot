@@ -22,9 +22,11 @@
 
 - [pytorch matric learning](https://github.com/KevinMusgrave/pytorch_metric_learning)
 
+- [Hands on Meta-Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 
 
-- Background  
+
+**Background**  
 
 I actually don't know the taxonomy of few-shot learning, so I will follow categorization in [this paper](https://arxiv.org/pdf/1904.05046.pdf)
 
@@ -212,7 +214,7 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
 
 ### Few-Shot Object Detection
 
-- [ ] Few-Shot Object Detection via Feature Reweighting [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
+- [x] Few-Shot Object Detection via Feature Reweighting [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
