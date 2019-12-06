@@ -216,7 +216,7 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
-- [ ] Transductive Learning for Zero-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Rahman_Transductive_Learning_for_Zero-Shot_Object_Detection_ICCV_2019_paper.html)
+- [x] Transductive Learning for Zero-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Rahman_Transductive_Learning_for_Zero-Shot_Object_Detection_ICCV_2019_paper.html)
 
   - Shafin Rahman, Salman Khan, Nick Barnes  - - **ICCV 2019**
 
