@@ -216,10 +216,6 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
-- [ ] Dynamic Anchor Feature Selection for Single-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Dynamic_Anchor_Feature_Selection_for_Single-Shot_Object_Detection_ICCV_2019_paper.html)
-
-  - Shuai Li, Lingxiao Yang, Jianqiang Huang, Xian-Sheng Hua, Lei Zhang  - - **ICCV 2019**
-
 - [ ] Transductive Learning for Zero-Shot Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Rahman_Transductive_Learning_for_Zero-Shot_Object_Detection_ICCV_2019_paper.html)
 
   - Shafin Rahman, Salman Khan, Nick Barnes  - - **ICCV 2019**
