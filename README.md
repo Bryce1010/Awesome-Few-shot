@@ -8,6 +8,8 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ps: some paper I have not read yet, but I put them in Metric Learning temporally. If you find any mistakes, please feel free to pull request. More hands produce a stronger flame !
 
+update12–7:  Context in red means need to be   explored more, these are personal marks, and you are welcome to fork the repository to mark by youself. But please note the source address  if you use this repository.
+
 
 
 
