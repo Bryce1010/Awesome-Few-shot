@@ -8,7 +8,7 @@ I actually don't know the taxonomy of few-shot learning, so I will follow catego
 
 ps: some paper I have not read yet, but I put them in Metric Learning temporally. If you find any mistakes, please feel free to pull request. More hands produce a stronger flame !
 
-update 12–7:  Context in red means which need to be explored more, these are personal marks, and you are welcome to fork the repository to mark by yourself. But please note the source address  if you use this repository.
+update 12–7:  Context in `grey` means which need to be explored more, these are personal marks, and you are welcome to fork the repository to mark by yourself. But please note the source address  if you use this repository.
 
 
 
@@ -214,7 +214,7 @@ update 12–7:  Context in red means which need to be explored more, these are p
 
 ### Few-Shot Object Detection
 
-- [ ] <font color='red'>Few-Shot Object Detection via Feature Reweighting</font> [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
+- [ ] `Few-Shot Object Detection via Feature Reweighting` [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
@@ -234,11 +234,11 @@ update 12–7:  Context in red means which need to be explored more, these are p
   
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell - - **ICCV 2019**
   
-- [x] One-Shot Object Detection with Co-Attention and Co-Excitation [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
+- [ ] `One-Shot Object Detection with Co-Attention and Co-Excitation` [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
 
   - Ting-I Hsieh, Yi-Chen Lo, Hwann-Tzong Chen, Tyng-Luh Liu - - **NIPS 2019**
 
-- [ ] RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.html)
+- [ ] `RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection`[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.html)
   
   - Leonid Karlinsky, Joseph Shtok, Sivan Harary, Eli Schwartz, Amit Aides, Rogerio Feris, Raja Giryes, Alex M. Bronstein - - **CVPR 2019**
   
