@@ -232,7 +232,7 @@ ps: some paper I have not read yet, but I put them in Metric Learning temporally
   
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell - - **ICCV 2019**
   
-- [ ] One-Shot Object Detection with Co-Attention and Co-Excitation [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
+- [x] One-Shot Object Detection with Co-Attention and Co-Excitation [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
 
   - Ting-I Hsieh, Yi-Chen Lo, Hwann-Tzong Chen, Tyng-Luh Liu - - **NIPS 2019**
 
