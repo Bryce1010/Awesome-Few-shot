@@ -214,7 +214,7 @@ update 12–7:  Context in red means which need to be explored more, these are p
 
 ### Few-Shot Object Detection
 
-- [x] Few-Shot Object Detection via Feature Reweighting [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
+- [ ] <font color='red'>Few-Shot Object Detection via Feature Reweighting</font> [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
