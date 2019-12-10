@@ -222,10 +222,6 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 
   - Shafin Rahman, Salman Khan, Nick Barnes  - - **ICCV 2019**
 
-- [ ] Learning Rich Features at High-Speed for Single-Shot Object Detection [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Learning_Rich_Features_at_High-Speed_for_Single-Shot_Object_Detection_ICCV_2019_paper.html)
-
-  - Tiancai Wang, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Yanwei Pang, Ling Shao - - **ICCV 2019**
-
 - [ ] Comparison Network for One-Shot Conditional Object Detection  [[paper]](https://arxiv.org/abs/1904.02317)
 
   - Tengfei Zhang, Yue Zhang, Xian Sun, Hao Sun, Menglong Yan, Xue Yang, Kun Fu  - - **201904**
