@@ -94,6 +94,14 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 
   - Zhimao Peng, Zechao Li, Junge Zhang, Yan Li, Guo-Jun Qi, Jinhui Tang - - **ICCV 2019**
 
+- [ ] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module [[paper]](https://openreview.net/forum?id=ByeSdsC9Km)
+
+  - Tiago Ramalho, Marta Garnelo  - - **ICLR 2019**
+
+- [ ] A Closer Look at Few-shot Classification [[paper]](https://openreview.net/forum?id=HkxLXnAcFQ)  
+
+  - Wei-Yu Chen, Yen-Cheng Liu, Zsolt Kira, Yu-Chiang Frank Wang, Jia-Bin Huang - - **ICLR 2019**
+
 - [x] Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning[[paper]](https://arxiv.org/abs/1903.12290)
 
   - Wenbin Li, Lei Wang, Jinglin Xu, Jing Huo, Yang Gao, Jiebo Luo - - **CVPR 2019**
@@ -160,10 +168,6 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
   - Chen Xing, Negar Rostamzadeh, Boris N. Oreshkin, Pedro O. Pinheiro - -**arXiv 2019**
 - [ ] Meta-Learning with Latent Embedding Optimization [[paper](https://arxiv.org/abs/1807.05960)]
   - Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell - - **ICLR 2019**
-- [ ] A Closer Look at Few-shot Classification [[paper](https://arxiv.org/abs/1904.04232)]
-  - Wei-Yu Chen, Yen-Cheng Liu, Zsolt Kira, Yu-Chiang Frank Wang, Jia-Bin Huang - - **ICLR 2019**
-- [ ] Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning [[paper](https://arxiv.org/pdf/1805.10002.pdf)]
-  - Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sung Ju Hwang, Yi Yang - - **ICLR 2019**
 - [ ] Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning [[paper](https://arxiv.org/pdf/1805.10002.pdf)]
   - Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sung Ju Hwang, Yi Yang - - **ICLR 2019**
 - [ ] Dynamic Few-Shot Visual Learning without Forgetting [[paper](https://arxiv.org/pdf/1804.09458v1.pdf)]
