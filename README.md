@@ -218,7 +218,7 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 
 ### Few-Shot Object Detection
 
-- [ ] `Few-Shot Object Detection via Feature Reweighting` [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
+- [x] `Few-Shot Object Detection via Feature Reweighting` [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)
 
   - Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell  - - **ICCV 2019**
 
@@ -226,19 +226,19 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 
   - Shafin Rahman, Salman Khan, Nick Barnes  - - **ICCV 2019**
 
-- [ ] Comparison Network for One-Shot Conditional Object Detection  [[paper]](https://arxiv.org/abs/1904.02317)
+- [x] Comparison Network for One-Shot Conditional Object Detection  [[paper]](https://arxiv.org/abs/1904.02317)
 
   - Tengfei Zhang, Yue Zhang, Xian Sun, Hao Sun, Menglong Yan, Xue Yang, Kun Fu  - - **201904**
 
-- [ ] `One-Shot Object Detection with Co-Attention and Co-Excitation` [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
+- [x] `One-Shot Object Detection with Co-Attention and Co-Excitation` [[paper]](https://papers.nips.cc/paper/8540-one-shot-object-detection-with-co-attention-and-co-excitation) 
 
   - Ting-I Hsieh, Yi-Chen Lo, Hwann-Tzong Chen, Tyng-Luh Liu - - **NIPS 2019**
 
-- [ ] `RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection`[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.html)
+- [x] `RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection`[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.html)
   
   - Leonid Karlinsky, Joseph Shtok, Sivan Harary, Eli Schwartz, Amit Aides, Rogerio Feris, Raja Giryes, Alex M. Bronstein - - **CVPR 2019**
   
-- [ ] Few-Shot Adaptive Faster R-CNN [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)  
+- [x] Few-Shot Adaptive Faster R-CNN [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)  
   
   - Tao Wang, Xiaopeng Zhang, Li Yuan, Jiashi Feng - - **CVPR 2019**
   
