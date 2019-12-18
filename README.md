@@ -21,16 +21,15 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 - [A Survey on Few-Shot Learning (May 2019)](https://arxiv.org/pdf/1904.05046.pdf)
 - [大数据时代的小样本深度学习问题的综述](https://zhuanlan.zhihu.com/p/60881968)
 - [MetaLearning Papers](https://github.com/oneHuster/MetaLearningPapers)
+- [awesome-papers-fewshot from Duan](https://github.com/Duan-JM/awesome-papers-fewshot)
 
 **Datasets && Tools**
 
 - [Few-shot-Object-Detection-Dataset](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset)
-
 - [Torchmeta API:  A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch](https://github.com/tristandeleu/pytorch-meta)
-
 - [pytorch matric learning](https://github.com/KevinMusgrave/pytorch_metric_learning)
-
 - [Hands on Meta-Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+- [meta-dataset: offer an environment for measuring progress in realistic few-shot classification](https://github.com/google-research/meta-dataset)
 
 
 
@@ -134,7 +133,7 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
 
 - [ ] Variational Few-Shot Learning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Variational_Few-Shot_Learning_ICCV_2019_paper.html)
   - Jian Zhang, Chenglong Zhao, Bingbing Ni, Minghao Xu, Xiaokang Yang - - **ICCV 2019**
-- [x] Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper]](https://arxiv.org/abs/1911.04695)
+- [x] `Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks` [[paper]](https://arxiv.org/abs/1911.04695)
   - Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Mahsa Baktashmotlagh, Yang Yang - -**arXiv 2019**
 - [ ] (ICCV2019)PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment [[paper](https://arxiv.org/abs/1908.06391)]
   - Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng - -**ICCV 2019**
@@ -162,7 +161,7 @@ update 12–7:  Context in `grey` means which need to be explored more, these ar
   - Spyros Gidaris, Nikos Komodakis - - **CVPR 2019**
 - [ ] Finding Task-Relevant Features for Few-Shot Learning by Category Traversal [[paper]](https://arxiv.org/abs/1905.11116)
   - Hongyang Li, David Eigen, Samuel Dodge, Matthew Zeiler, Xiaogang Wang - - CVPR 2019 
-- [ ] Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
+- [x] Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
   - Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle - - **arXiv 2019**
 - [ ] Adaptive Cross-Modal Few-Shot Learning [[paper](https://arxiv.org/pdf/1902.07104.pdf)]
   - Chen Xing, Negar Rostamzadeh, Boris N. Oreshkin, Pedro O. Pinheiro - -**arXiv 2019**
