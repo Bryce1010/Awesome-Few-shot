@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**This repository has been merged with [[awesome-papers-fewshot by Duan-JM]](https://github.com/Duan-JM/awesome-papers-fewshot),I'd love to suggest you pay attention to that repo if you think my work is helpful.**
+
 **Background**  
 
 I actually don't know the taxonomy of few-shot learning, so I will follow categorization in [this paper](https://arxiv.org/pdf/1904.05046.pdf)
